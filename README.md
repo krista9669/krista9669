@@ -1,1 +1,1 @@
-<![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?krista9669=vn7n24fzkq&theme=default)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=krista9669&theme=react-dark&hide_border=false)
