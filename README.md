@@ -1,1 +1,1 @@
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krista9669&theme=transparent"/>
+<![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?krista9669=vn7n24fzkq&theme=default)
