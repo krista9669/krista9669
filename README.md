@@ -1,11 +1,6 @@
-<!-- ===================== HEADER ===================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Krishitha%20Kankanala&fontSize=75&fontColor=ffffff"/>
-</div>
-
 <!-- ===================== TYPING ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=6A5ACD&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Open+Source+Contributor;Computer+Vision+%26+AI+Enthusiast;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=6A5ACD&center=true&vCenter=true&width=800&lines=Exploring+the+Intersection+of+AI+and+Software+Engineering;Open+Source+Contributor;Computer+Vision+%26+AI+Enthusiast;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New"/>
 </div>
 
 <div align="center">
