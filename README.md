@@ -7,7 +7,7 @@
 <h1>Wassup Folks! I'm Krishitha</h1>
 
 - Exploring AI, Computer Vision and Software Engineering
-- Building things that are useful, interesting, or both
+- Building things that are useful, interesting or both
 - Contributing to open source and learning in public
 - Turning curiosity into projects and ideas into reality
 - Always looking for the next challenge worth solving
