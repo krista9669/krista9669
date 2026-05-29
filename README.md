@@ -3,13 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=6A5ACD&center=true&vCenter=true&width=800&lines=Powered+by+Deadlines+and+Determination;Open+Source+Contributor;Computer+Vision+%26+AI+Enthusiast;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New"/>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=krista9669&color=blueviolet&style=flat"/>
-</div>
-
 ---
 
-# 👋 Hey, I'm Krishitha
+# Hey, I'm Krishitha
 
 <img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
