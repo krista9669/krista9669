@@ -1,6 +1,6 @@
 <!-- ===================== TYPING ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=FF69B4&center=true&vCenter=true&width=900&lines=Powered+by+Deadlines+and+Determination;Reader+%7C+Writer+%7C+Builder;Computer+Vision+%26+AI+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=FF69B4&center=true&vCenter=true&width=900&lines=Caffinated;Reader+%7C+Writer;Computer+Vision+%26+AI+Enthusiast"/>
 </div>
 
 ---
