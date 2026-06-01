@@ -6,7 +6,7 @@
 ---
 <h1>Wassup Folks! I'm Krishitha</h1>
 
-- Exploring AI, Computer Vision and Software Engineering
+- Exploring AI, Computer Vision and Web Development
 - Building things that are useful, interesting or both
 - Contributing to open source and learning in public
 - Turning curiosity into projects and ideas into reality
