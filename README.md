@@ -4,7 +4,7 @@
 </div>
 
 ---
-<h1>Wassup Folks! I'm <a href="https://quest-log-krishitha.vercel.app/" target=blank_>Krishitha</a></h1>
+<h1>Wassup Folks! I'm <a href="https://quest-log-krishitha.vercel.app/">Krishitha</a></h1>
 
 - Exploring AI, Computer Vision and Web Development
 - Building things that are useful, interesting or both
