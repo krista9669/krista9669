@@ -13,3 +13,5 @@
 - Always looking for the next challenge worth solving
 
 <h3>Powered by curiosity and questionable sleep schedules</h3>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=krista9669&theme=react-dark&hide_border=false)
