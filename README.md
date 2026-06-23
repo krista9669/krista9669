@@ -13,5 +13,3 @@
 - Always looking for the next challenge worth solving
 
 <h3>Powered by curiosity and questionable sleep schedules</h3>
-
-![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/krista9669?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink)
