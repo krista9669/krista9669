@@ -21,6 +21,6 @@ const krishitha = {
 
 <p align="center">
   <a href="https://quest-log-krishitha.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/krishitha-k/)">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/krishitha-k/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:krishithaaaa@gmail.com">Email</a>
 </p>
